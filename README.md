@@ -5,6 +5,7 @@ DFUN Battery Management System
 
 1. Just a simple Nodered flows for reading data from DFUN Battery Management System and publish it to MQTT Broker 
 2. I also add flows for reading data from Battery Charge Controller XYL10A where the specification for the communication is (9600,8,n)
+3. You can access the modbus documentation [here ](https://drive.google.com/file/d/1-BaQEQINEpsdPliAqPPdTHEE3GL8iSda/view?usp=sharing)
 
 #### What you need ?
 
