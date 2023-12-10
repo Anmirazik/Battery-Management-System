@@ -13,7 +13,7 @@ DFUN Battery Management System
 2. Ensure that the raspberry pi are in the same network as the BMS otherwise Modbus TCP won't work since it needs to be in the same network
 3. Turn on the DFUN Battery Management System
 4. Clone this repo
-5. Ensure that modbus pallete library is installed https://github.com/BiancoRoyal/node-red-contrib-modbus.git
+5. Ensure that modbus pallete library is installed [here](https://github.com/BiancoRoyal/node-red-contrib-modbus.git)
 6. Deploy and thats all
 
 ### How It Works ?
